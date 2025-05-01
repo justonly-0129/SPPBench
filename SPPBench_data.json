@@ -1,0 +1,602 @@
+[
+    {
+        "idx": 0,
+        "question": "我刚开始学习网球，技术还不稳定，经常在比赛中输给对手，感到非常沮丧。我应该如何保持动力并继续练习？",
+        "tag_level": "easy",
+        "category": "tennis"
+    },
+    {
+        "idx": 1,
+        "question": "作为一名新手，我在比赛时经常感到非常紧张，尤其是在发球时，担心自己会犯错导致比赛失利。如何克服这种焦虑情绪？",
+        "tag_level": "easy",
+        "category": "tennis"
+    },
+    {
+        "idx": 2,
+        "question": "我练习网球有一段时间了，但在比赛时，总是会因为一些简单的失误而丧失信心，情绪变得低落。如何调整心态，避免这些负面情绪影响比赛表现？",
+        "tag_level": "mid",
+        "category": "tennis"
+    },
+    {
+        "idx": 3,
+        "question": "我正在参加业余网球比赛，但每次在关键局面（例如决胜局）时，我会感到特别焦虑，心跳加速，无法专注。怎样才能在这些关键时刻保持冷静和专注？",
+        "tag_level": "mid",
+        "category": "tennis"
+    },
+    {
+        "idx": 4,
+        "question": "最近我感到训练效果减缓，尽管我在提高技术和体能，但比赛成绩并没有明显改善。如何摆脱这种低谷，继续保持进步的动力？",
+        "tag_level": "mid",
+        "category": "tennis"
+    },
+    {
+        "idx": 5,
+        "question": "在参加高级别比赛时，我经常感受到来自外界的巨大压力，尤其是在重要比赛前，我开始焦虑，觉得自己无法承受这种压力。如何有效减压，保持心理稳定？",
+        "tag_level": "hard",
+        "category": "tennis"
+    },
+    {
+        "idx": 6,
+        "question": "我在比赛中取得了一些成功，但在面对顶级选手时，常常感到自卑和紧张，害怕自己无法表现出最佳水平。如何提升自信心，在比赛中不被压力打败？",
+        "tag_level": "hard",
+        "category": "tennis"
+    },
+    {
+        "idx": 7,
+        "question": "我是一名有多年经验的网球选手，但最近我在比赛中经常遇到瓶颈，尤其是面对技术上的挑战时，容易感到挫败。如何克服这些心理障碍，突破自我限制？",
+        "tag_level": "hard",
+        "category": "tennis"
+    },
+    {
+        "idx": 8,
+        "question": "在高水平比赛中，我经常会注意到观众的目光或裁判的评价，这让我在比赛中感到压力山大，影响了我的发挥。如何在比赛中保持集中，避免外界因素的干扰？",
+        "tag_level": "hard",
+        "category": "tennis"
+    },
+    {
+        "idx": 9,
+        "question": "作为一名职业网球选手，我经历了多次的心理低谷，尤其是比赛中的连续失利让我感到丧失信心。如何调整心态，从低谷中恢复，并重拾信心继续挑战？",
+        "tag_level": "hard",
+        "category": "tennis"
+    },
+    {
+        "idx": 10,
+        "question": "在比赛中，我总是会对自己的失误过于焦虑，导致情绪波动。该如何控制情绪，不让失误影响接下来的表现？",
+        "tag_level": "easy",
+        "category": "basketball"
+    },
+    {
+        "idx": 11,
+        "question": "每当我面对高强度的比赛，特别是在对抗强队时，我总是会感到紧张，害怕犯错误。如何在比赛中保持冷静，避免因紧张导致的错误？",
+        "tag_level": "easy",
+        "category": "basketball"
+    },
+    {
+        "idx": 12,
+        "question": "在比赛中，我经常对自己产生不信任，尤其是当我与队友配合不顺时，内心感到焦虑，害怕影响团队表现。如何克服这种不信任感，增强与队友的默契？",
+        "tag_level": "mid",
+        "category": "basketball"
+    },
+    {
+        "idx": 13,
+        "question": "在比赛临近时，我感到焦虑和压力越来越大，担心表现不佳会被教练和队友批评，如何有效减轻比赛前的心理压力，保持专注和自信？",
+        "tag_level": "mid",
+        "category": "basketball"
+    },
+    {
+        "idx": 14,
+        "question": "虽然我的进攻能力有所提升，但在关键时刻，我常常犹豫不决，担心自己的决定会影响比赛结果。如何克服决策犹豫，增强自信心？",
+        "tag_level": "mid",
+        "category": "basketball"
+    },
+    {
+        "idx": 15,
+        "question": "在接连多场高强度比赛后，我开始出现精神疲劳和情绪波动，难以保持专注和动力，如何恢复心理能量，并重新找回比赛的热情？",
+        "tag_level": "hard",
+        "category": "basketball"
+    },
+    {
+        "idx": 16,
+        "question": "在面对重要的比赛时，我感到无比焦虑，尤其是在比赛最后关键时刻，压力巨大，怕失败，如何在这样的压力下依然保持冷静，发挥最佳水平？",
+        "tag_level": "hard",
+        "category": "basketball"
+    },
+    {
+        "idx": 17,
+        "question": "虽然我在球队中是核心球员，但每当我进入比赛中的关键时刻，我会因为担心失败而感到巨大的压力，影响发挥。如何提升我的心理承受能力，敢于在关键时刻作出决策？",
+        "tag_level": "hard",
+        "category": "basketball"
+    },
+    {
+        "idx": 18,
+        "question": "在经历了一段时间的低迷期后，我开始怀疑自己的能力，认为自己无法再取得进步。如何突破这种心态瓶颈，重新激发对比赛的激情和动力？",
+        "tag_level": "hard",
+        "category": "basketball"
+    },
+    {
+        "idx": 19,
+        "question": "在比赛中，所有的目光都集中在我身上，每一场比赛的表现都决定着我的职业生涯和球队成绩。我感到极大的心理压力，甚至影响了我的表现。如何管理这种巨大压力，避免它影响我的比赛状态？",
+        "tag_level": "hard",
+        "category": "basketball"
+    },
+    {
+        "idx": 20,
+        "question": "我刚开始踢足球，虽然训练强度适中，但有时我会觉得进展缓慢，容易失去动力。如何保持积极的心态并继续坚持训练？",
+        "tag_level": "easy",
+        "category": "soccer"
+    },
+    {
+        "idx": 21,
+        "question": "我是一名足球初学者，每次在面对对抗性较强的训练时，都会感到紧张，担心自己表现不好。如何在面对这种焦虑时保持冷静并提高信心？",
+        "tag_level": "easy",
+        "category": "soccer"
+    },
+    {
+        "idx": 22,
+        "question": "我在足球训练中不断提高自己，但有时会感觉疲惫且情绪低落，特别是连续训练几天后，如何保持训练的积极性？",
+        "tag_level": "mid",
+        "category": "soccer"
+    },
+    {
+        "idx": 23,
+        "question": "尽管我进行了一段时间的足球训练，但总感觉自己在比赛中无法达到预期的表现。如何调整心态，突破这种瓶颈感？",
+        "tag_level": "mid",
+        "category": "soccer"
+    },
+    {
+        "idx": 24,
+        "question": "在比赛的备战阶段，我常常会感到紧张和焦虑，特别是当比赛临近时，这些情绪会变得更加明显。如何缓解比赛前的焦虑，保持冷静发挥",
+        "tag_level": "mid",
+        "category": "soccer"
+    },
+    {
+        "idx": 25,
+        "question": "在进行高强度的足球训练后，我常常感到情绪疲惫和心理倦怠。虽然知道持续训练会带来更好的结果，但有时我会感到对训练失去兴趣。如何保持对训练的长期热情？",
+        "tag_level": "hard",
+        "category": "soccer"
+    },
+    {
+        "idx": 26,
+        "question": "我正在准备参加重要的比赛，随着比赛临近，我感受到巨大的压力。除了技术和战术的准备外，心理上的焦虑让我很难保持冷静，如何有效管理比赛中的心理压力？",
+        "tag_level": "hard",
+        "category": "soccer"
+    },
+    {
+        "idx": 27,
+        "question": "我的球队在本赛季一直表现得不错，但在关键比赛中，我总是感到心理负担过重，不能发挥出应有的水平。如何突破这种心理障碍，提升关键时刻的心理素质？",
+        "tag_level": "hard",
+        "category": "soccer"
+    },
+    {
+        "idx": 28,
+        "question": "在比赛中，教练、队友和观众的期待常常让我感到巨大的心理压力。这种压力有时影响到我的表现，我如何管理这种外部压力，避免它影响我的发挥",
+        "tag_level": "hard",
+        "category": "soccer"
+    },
+    {
+        "idx": 29,
+        "question": "在经历了多次失利后，我感到沮丧并开始质疑自己的能力。如何有效应对这些负面情绪，恢复自信并突破心理瓶颈？",
+        "tag_level": "hard",
+        "category": "soccer"
+    },
+    {
+        "idx": 30,
+        "question": "在刚开始学习乒乓球时，我感觉自己的进展比较慢，偶尔会因为失误而感到沮丧，如何保持自信并继续努力？",
+        "tag_level": "easy",
+        "category": "table tennis"
+    },
+    {
+        "idx": 31,
+        "question": "作为一名乒乓球新手，每次在比赛时，面对对手的快速反应，我总是感到紧张，担心自己打不好，如何克服这种紧张情绪？",
+        "tag_level": "easy",
+        "category": "table tennis"
+    },
+    {
+        "idx": 32,
+        "question": "在乒乓球训练中，我有时会感到很疲惫，情绪变得低落，尤其是连续几天训练之后，如何调节自己的情绪，保持积极的训练状态？",
+        "tag_level": "mid",
+        "category": "table tennis"
+    },
+    {
+        "idx": 33,
+        "question": "我在比赛中经常遇到某些技术瓶颈，感觉自己的进步停滞不前，如何保持信心并设定新的短期目标？",
+        "tag_level": "mid",
+        "category": "table tennis"
+    },
+    {
+        "idx": 34,
+        "question": "在接下来的乒乓球比赛中，我感到非常紧张，尤其是面对强劲的对手，如何缓解比赛前的焦虑情绪，提高自己的表现？",
+        "tag_level": "mid",
+        "category": "table tennis"
+    },
+    {
+        "idx": 35,
+        "question": "在连续的高强度乒乓球训练后，我常常感到精神疲惫和身体上的倦怠，如何有效调整自己的心态，以保持对训练的热情？",
+        "tag_level": "hard",
+        "category": "table tennis"
+    },
+    {
+        "idx": 36,
+        "question": "面对即将到来的重要乒乓球比赛，我感到巨大的压力，不仅要应对体能的挑战，还要处理来自教练和队友的期待，如何在比赛期间保持冷静？",
+        "tag_level": "hard",
+        "category": "table tennis"
+    },
+    {
+        "idx": 37,
+        "question": "在比赛中，遇到关键分数时，我的焦虑情绪常常影响到我的表现，如何突破这种情绪障碍，提升关键时刻的心理素质？",
+        "tag_level": "hard",
+        "category": "table tennis"
+    },
+    {
+        "idx": 38,
+        "question": "最近几场比赛中，我常常失误频繁，导致自己陷入负面情绪，如何从心理上恢复自信，克服这段时间的低谷？",
+        "tag_level": "hard",
+        "category": "table tennis"
+    },
+    {
+        "idx": 39,
+        "question": "尽管我付出了很多努力，但近期在技术和心理层面上都遇到了瓶颈，如何调整心态，重新突破这些限制？",
+        "tag_level": "hard",
+        "category": "table tennis"
+    },
+    {
+        "idx": 40,
+        "question": "我刚开始学习排球时，时常因为犯错误而感到沮丧，如何克服这种情绪并保持继续努力的动力？",
+        "tag_level": "easy",
+        "category": "volleyball"
+    },
+    {
+        "idx": 41,
+        "question": "每当在排球比赛中出现失误，我感到自己无法振作起来，怎么才能快速调整心态，避免情绪持续低落？",
+        "tag_level": "easy",
+        "category": "volleyball"
+    },
+    {
+        "idx": 42,
+        "question": "在排球训练过程中，我感到自己的体力和精神逐渐下降，尤其是在连续训练几天后，如何调整心态，避免疲劳情绪影响表现？",
+        "tag_level": "mid",
+        "category": "volleyball"
+    },
+    {
+        "idx": 43,
+        "question": "最近，我感觉自己的进步速度变慢，特别是在技术上遇到瓶颈，如何设定合理的目标，保持信心继续前进？",
+        "tag_level": "mid",
+        "category": "volleyball"
+    },
+    {
+        "idx": 44,
+        "question": "在即将到来的排球比赛中，我感到压力越来越大，特别是在面对强劲对手时，如何有效管理比赛中的紧张情绪，提高比赛表现？",
+        "tag_level": "mid",
+        "category": "volleyball"
+    },
+    {
+        "idx": 45,
+        "question": "在高强度排球训练之后，我经常感到精疲力尽，情绪也开始变得消极，如何调整心理状态，以保持对排球训练的热情？",
+        "tag_level": "hard",
+        "category": "volleyball"
+    },
+    {
+        "idx": 46,
+        "question": "即将参加一场重要的排球比赛，我面临巨大的心理压力，除了对体能的要求，比赛中的紧张情绪使我无法集中精力，如何在比赛前调整心态？",
+        "tag_level": "hard",
+        "category": "volleyball"
+    },
+    {
+        "idx": 47,
+        "question": "在比赛中，我常常遇到关键时刻的情绪波动，导致技术发挥不稳定，如何提高自己在关键时刻的心理素质，避免焦虑影响发挥？",
+        "tag_level": "hard",
+        "category": "volleyball"
+    },
+    {
+        "idx": 48,
+        "question": "我在排球比赛中多次出现失误，这让我开始怀疑自己的能力，如何通过心理调节，摆脱负面情绪，恢复自信心？",
+        "tag_level": "hard",
+        "category": "volleyball"
+    },
+    {
+        "idx": 49,
+        "question": "目前我在排球训练和比赛中都遇到瓶颈，进步似乎停滞不前，如何克服心理上的挫败感，突破当前的瓶颈？",
+        "tag_level": "hard",
+        "category": "volleyball"
+    },
+    {
+        "idx": 50,
+        "question": "我刚开始打羽毛球时，经常因为打错球而感到沮丧，如何快速调整心态，避免情绪影响到接下来的比赛？",
+        "tag_level": "easy",
+        "category": "badminton"
+    },
+    {
+        "idx": 51,
+        "question": "每当在羽毛球比赛中我被对方领先时，我会感到失去信心，如何保持冷静并继续专注于比赛？",
+        "tag_level": "easy",
+        "category": "badminton"
+    },
+    {
+        "idx": 52,
+        "question": "在羽毛球训练过程中，我有时会遇到连续失败的情况，这让我感到情绪低落并开始怀疑自己的能力。如何从这种情绪中走出来，重新调整训练目标？",
+        "tag_level": "mid",
+        "category": "badminton"
+    },
+    {
+        "idx": 53,
+        "question": "在比赛中，我常常被对手的快速节奏压制，感觉跟不上对方的速度，如何调整自己的心态，保持镇定，避免焦虑情绪影响我的发挥？",
+        "tag_level": "mid",
+        "category": "badminton"
+    },
+    {
+        "idx": 54,
+        "question": "我在羽毛球训练中遇到了瓶颈期，技术上没有明显进展，情绪有时变得焦虑和不安，如何保持积极心态，突破当前的瓶颈？",
+        "tag_level": "mid",
+        "category": "badminton"
+    },
+    {
+        "idx": 55,
+        "question": "在高强度羽毛球训练之后，我感到体力透支和心理疲劳，情绪变得消极，如何调整自己以恢复动力并保持对训练的热情？",
+        "tag_level": "hard",
+        "category": "badminton"
+    },
+    {
+        "idx": 56,
+        "question": "即将参加一场重要的羽毛球比赛，我感受到很大的压力，除了体能和技术，如何在比赛前有效管理自己的焦虑情绪，保持清晰的思维和冷静的态度？",
+        "tag_level": "hard",
+        "category": "badminton"
+    },
+    {
+        "idx": 57,
+        "question": "在羽毛球比赛中的关键时刻，我常常感到紧张和不安，尤其是当比分接近时，如何通过心理调节保持稳定的心理状态，避免影响关键时刻的发挥？",
+        "tag_level": "hard",
+        "category": "badminton"
+    },
+    {
+        "idx": 58,
+        "question": "每次比赛的压力越来越大，尤其是当我知道自己必须赢得比赛时，焦虑情绪经常让我无法集中注意力。如何改善这种情绪状态，专注于当下的比赛？",
+        "tag_level": "hard",
+        "category": "badminton"
+    },
+    {
+        "idx": 59,
+        "question": "我遇到多次比赛中的失败，进步似乎停滞不前，如何突破心理上的挫败感，恢复自信并在下次比赛中取得更好的表现？",
+        "tag_level": "hard",
+        "category": "badminton"
+    },
+    {
+        "idx": 60,
+        "question": "在打高尔夫时，我偶尔会因一记失误而感到非常沮丧，如何调整情绪，避免失误影响后续的表现？",
+        "tag_level": "easy",
+        "category": "golf"
+    },
+    {
+        "idx": 61,
+        "question": "作为初学者，我经常在关键的推杆时产生紧张情绪，导致表现不佳。如何建立自信，保持冷静，并提高推杆的准确性？",
+        "tag_level": "easy",
+        "category": "golf"
+    },
+    {
+        "idx": 62,
+        "question": "我在高尔夫比赛中常常因为不小心的失误而变得焦虑和自我怀疑，如何管理这种情绪，继续保持专注，不让失误影响整体发挥？",
+        "tag_level": "mid",
+        "category": "golf"
+    },
+    {
+        "idx": 63,
+        "question": "在我的高尔夫训练中，我感觉自己练习了很多技巧，但总是遇到瓶颈，进步很慢，如何调整心态，突破目前的状态？",
+        "tag_level": "mid",
+        "category": "golf"
+    },
+    {
+        "idx": 64,
+        "question": "我在比赛的最后几个洞时感到很大的压力，害怕影响整体成绩，如何在临近结束时保持稳定心态，不受压力影响，依然发挥出色？",
+        "tag_level": "mid",
+        "category": "golf"
+    },
+    {
+        "idx": 65,
+        "question": "在参加重要的高尔夫比赛时，我感到巨大的心理负担，尤其是当我的表现不尽如人意时，如何快速调整心态，避免焦虑情绪影响后续的比赛？",
+        "tag_level": "hard",
+        "category": "golf"
+    },
+    {
+        "idx": 66,
+        "question": "在高强度的训练和比赛期间，我感到精神疲惫和倦怠，情绪开始低落，如何恢复精神状态，继续保持积极的训练态度？",
+        "tag_level": "hard",
+        "category": "golf"
+    },
+    {
+        "idx": 67,
+        "question": "我经常在比赛中的关键时刻感到紧张，尤其是在决胜洞，如何控制自己的焦虑情绪，保持专注，确保自己的决策和表现不受影响？",
+        "tag_level": "hard",
+        "category": "golf"
+    },
+    {
+        "idx": 68,
+        "question": "当我在比赛中逐渐领先时，反而感到更大的压力，害怕失去优势，如何在这种情况下保持冷静，避免过度紧张，确保稳定发挥？",
+        "tag_level": "hard",
+        "category": "golf"
+    },
+    {
+        "idx": 69,
+        "question": "长时间的比赛和高强度的训练让我在心理上感到极度疲劳，如何保持心理和身体的平衡，避免过度消耗，确保持续的竞技状态和高水平表现？",
+        "tag_level": "hard",
+        "category": "golf"
+    },
+    {
+        "idx": 70,
+        "question": "在打桌球时，我经常因为失误感到沮丧，情绪容易受影响，如何调整心态，保持冷静并继续专注于比赛？",
+        "tag_level": "easy",
+        "category": "snooker"
+    },
+    {
+        "idx": 71,
+        "question": "作为新手，我在面对较强的对手时感到紧张，特别是在关键局点，我如何增强自信，不让对方的表现影响我的心理状态？",
+        "tag_level": "easy",
+        "category": "snooker"
+    },
+    {
+        "idx": 72,
+        "question": "我在进行多局比赛时，有时会因为中途的失误而感到情绪波动，如何快速调整自己的情绪，避免这些波动影响后续的表现？",
+        "tag_level": "mid",
+        "category": "snooker"
+    },
+    {
+        "idx": 73,
+        "question": "在长时间的训练中，我有时会陷入瓶颈，进步变慢，开始怀疑自己的能力，如何设定有效的短期目标，保持动力并克服瓶颈期？",
+        "tag_level": "mid",
+        "category": "snooker"
+    },
+    {
+        "idx": 74,
+        "question": "比赛接近尾声时，我感到巨大的压力，担心失误会导致比赛失利，如何保持冷静，控制压力，确保发挥出自己的最佳水平？",
+        "tag_level": "mid",
+        "category": "snooker"
+    },
+    {
+        "idx": 75,
+        "question": "在高强度训练后，心理和身体双重疲劳时，怎么平衡休息与继续强化训练的关系，以最大程度发挥自身潜能？",
+        "tag_level": "hard",
+        "category": "snooker"
+    },
+    {
+        "idx": 76,
+        "question": "经过长时间的高强度训练，我感到情绪和体力的双重疲惫，如何避免精神倦怠，保持持续的竞争力并进行心理调整？",
+        "tag_level": "hard",
+        "category": "snooker"
+    },
+    {
+        "idx": 77,
+        "question": "在比赛的关键时刻，尤其是决胜局，我常常感到极度紧张，手心出汗，如何控制这种紧张情绪，保持心态稳定，做出理智的决策？",
+        "tag_level": "hard",
+        "category": "snooker"
+    },
+    {
+        "idx": 78,
+        "question": "我在比赛中经常会陷入自我怀疑，尤其是在与技术水平较高的对手对抗时，如何增强自己的心理韧性，克服对失误的恐惧，继续全力以赴？",
+        "tag_level": "hard",
+        "category": "snooker"
+    },
+    {
+        "idx": 79,
+        "question": "连续的比赛和训练压力让我感到无力，如何在高强度的赛事期间保持心理的稳定，并且不让过度的焦虑和压力影响到我的整体表现？",
+        "tag_level": "hard",
+        "category": "snooker"
+    },
+    {
+        "idx": 80,
+        "question": "作为一名刚开始打手球的新手，我在比赛中经常因为失误而感到沮丧，如何调整情绪，保持积极的比赛态度？",
+        "tag_level": "easy",
+        "category": "handball"
+    },
+    {
+        "idx": 81,
+        "question": "每当在训练中面对强对手时，我会感到紧张和焦虑，担心自己无法发挥出最佳水平。如何克服这种紧张情绪，增强自信心？",
+        "tag_level": "easy",
+        "category": "handball"
+    },
+    {
+        "idx": 82,
+        "question": "在手球训练和比赛中，我有时会因为连续的失误而感到情绪低落，如何有效管理这些负面情绪，保持持续的训练动力？",
+        "tag_level": "mid",
+        "category": "handball"
+    },
+    {
+        "idx": 83,
+        "question": "我在手球比赛中遇到了技术瓶颈，感觉自己的进步停滞不前，如何设定新的目标并保持信心，突破当前的困境？",
+        "tag_level": "mid",
+        "category": "handball"
+    },
+    {
+        "idx": 84,
+        "question": "在重要比赛前夕，我感受到巨大的压力和焦虑，担心自己的表现不佳，如何通过心理调节技巧减轻这种压力，保持冷静和专注？",
+        "tag_level": "mid",
+        "category": "handball"
+    },
+    {
+        "idx": 85,
+        "question": "在高强度的手球训练后，我常常感到精神和身体的双重疲惫，情绪上容易出现倦怠感，如何调整心态，保持对训练的热情和动力？",
+        "tag_level": "hard",
+        "category": "handball"
+    },
+    {
+        "idx": 86,
+        "question": "即将参加一场关键的手球比赛，比赛的高期待让我感受到巨大的心理压力，除了技术准备外，如何有效管理心理负担，确保在比赛中发挥出最佳状态？",
+        "tag_level": "hard",
+        "category": "handball"
+    },
+    {
+        "idx": 87,
+        "question": "在比赛的关键时刻，我常常因为紧张和焦虑而影响投篮和传球的准确性，如何在高压环境下保持冷静，提升关键时刻的表现？",
+        "tag_level": "hard",
+        "category": "handball"
+    },
+    {
+        "idx": 88,
+        "question": "面对顶级对手时，我感到自我怀疑和压力倍增，担心自己无法应对高强度的竞争，如何增强心理韧性，克服这种心理障碍？",
+        "tag_level": "hard",
+        "category": "handball"
+    },
+    {
+        "idx": 89,
+        "question": "在经历了多场失利后，我感到深深的挫败感和自我怀疑，如何通过心理调节和自我激励，重新找回信心，突破心理低谷，继续追求更高的竞技水平？",
+        "tag_level": "hard",
+        "category": "handball"
+    },
+    {
+        "idx": 90,
+        "question": "在刚开始接触橄榄球时，面对队友的期待和教练的指导，如何建立对自己基本技能的信心？",
+        "tag_level": "easy",
+        "category": "rugby"
+    },
+    {
+        "idx": 91,
+        "question": "当在训练中感到紧张或焦虑时，应该采用哪些简单的方法来调节情绪，保持积极的心态？",
+        "tag_level": "easy",
+        "category": "rugby"
+    },
+    {
+        "idx": 92,
+        "question": "在比赛中遭遇连续失误或队伍表现不佳时，如何有效管理情绪波动，避免负面情绪影响后续表现？",
+        "tag_level": "mid",
+        "category": "rugby"
+    },
+    {
+        "idx": 93,
+        "question": "当遇到训练瓶颈期，难以提升个人表现时，如何设定新的目标并调整训练计划以突破当前困境？",
+        "tag_level": "mid",
+        "category": "rugby"
+    },
+    {
+        "idx": 94,
+        "question": "面对重要比赛前的压力和期望，如何平衡内心的焦虑，保持专注和冷静，发挥最佳水平？",
+        "tag_level": "mid",
+        "category": "rugby"
+    },
+    {
+        "idx": 95,
+        "question": "在高强度训练和密集赛程下，如何保持持续的动力和高昂的士气，避免心理疲劳？",
+        "tag_level": "hard",
+        "category": "rugby"
+    },
+    {
+        "idx": 96,
+        "question": "面对关键比赛的巨大压力和外界的高度关注，如何保持内心的稳定和专注，确保发挥出最佳状态？",
+        "tag_level": "hard",
+        "category": "rugby"
+    },
+    {
+        "idx": 97,
+        "question": "当遭遇严重的伤病或长时间的恢复期时，如何调整心态，保持积极的复健态度并重返赛场？",
+        "tag_level": "hard",
+        "category": "rugby"
+    },
+    {
+        "idx": 98,
+        "question": "在团队内部出现冲突或不和谐时，如何有效沟通和管理情绪，促进团队协作和整体表现？",
+        "tag_level": "hard",
+        "category": "rugby"
+    },
+    {
+        "idx": 99,
+        "question": "为了实现个人突破或带领团队取得重大胜利，如何在高压环境下持续激发自己的意志力和心理韧性？",
+        "tag_level": "hard",
+        "category": "rugby"
+    }
+]
